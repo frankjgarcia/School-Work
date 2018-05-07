@@ -1,0 +1,10 @@
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\bin\Debug\netcoreapp2.0\UnitConveter.deps.json
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\bin\Debug\netcoreapp2.0\UnitConveter.runtimeconfig.json
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\bin\Debug\netcoreapp2.0\UnitConveter.runtimeconfig.dev.json
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\bin\Debug\netcoreapp2.0\UnitConveter.dll
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\bin\Debug\netcoreapp2.0\UnitConveter.pdb
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\obj\Debug\netcoreapp2.0\UnitConveter.csproj.CoreCompileInputs.cache
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\obj\Debug\netcoreapp2.0\UnitConveter.AssemblyInfoInputs.cache
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\obj\Debug\netcoreapp2.0\UnitConveter.AssemblyInfo.cs
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\obj\Debug\netcoreapp2.0\UnitConveter.dll
+C:\CIDM3312\CIDM3312-Spring2018-InClass\UnitConveter\obj\Debug\netcoreapp2.0\UnitConveter.pdb
